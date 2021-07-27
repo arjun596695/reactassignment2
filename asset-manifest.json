@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactassignment2/static/css/main.a617e044.chunk.css",
+    "main.js": "/reactassignment2/static/js/main.d63a8358.chunk.js",
+    "main.js.map": "/reactassignment2/static/js/main.d63a8358.chunk.js.map",
+    "runtime-main.js": "/reactassignment2/static/js/runtime-main.23eeb032.js",
+    "runtime-main.js.map": "/reactassignment2/static/js/runtime-main.23eeb032.js.map",
+    "static/js/2.e1be2416.chunk.js": "/reactassignment2/static/js/2.e1be2416.chunk.js",
+    "static/js/2.e1be2416.chunk.js.map": "/reactassignment2/static/js/2.e1be2416.chunk.js.map",
+    "static/js/3.12712905.chunk.js": "/reactassignment2/static/js/3.12712905.chunk.js",
+    "static/js/3.12712905.chunk.js.map": "/reactassignment2/static/js/3.12712905.chunk.js.map",
+    "index.html": "/reactassignment2/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/reactassignment2/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.e1be2416.chunk.js.LICENSE.txt": "/reactassignment2/static/js/2.e1be2416.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/reactassignment2/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23eeb032.js",
+    "static/js/2.e1be2416.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.d63a8358.chunk.js"
+  ]
+}
